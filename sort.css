@@ -1,0 +1,37 @@
+#tbl{
+
+Width:auto;
+
+Border-collapse:separate;
+
+    Border-spacing:5px;
+
+Border-color:white;
+
+Margin-left:auto;
+
+Margin-right:auto;
+
+}
+
+
+
+#tbl td{
+
+    Width:25px;
+
+    Height:30px;
+
+    Padding:5px;
+
+Border-color:white;
+
+Text-align:center;
+
+}
+#div {
+	margin-left: 20px;
+}
+.table{
+	padding-top: 20px;
+}
